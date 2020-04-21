@@ -1,0 +1,7 @@
+{"project:django/django rate:23.04%": {"right": 191, "wrong": 638, "all": 829}}
+{"project:django/django rate:53.20%": {"right": 441, "wrong": 388, "all": 829}}
+{"project:django/django rate:86.73%": {"right": 719, "wrong": 110, "all": 829}}
+"train_time time is 160.4656524658203"
+"predict_time time is 43.42105007171631"
+"update_time time is 5.1906678676605225"
+"spend time is 209.3217272758484"

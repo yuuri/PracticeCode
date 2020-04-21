@@ -1,0 +1,3 @@
+{"project:mrdoob/three.js rate1:0.00%": {"right": 0, "wrong": 928, "all": 2079}}
+{"project:mrdoob/three.js rate3:96.12%": {"right": 892, "wrong": 36, "all": 2079}}
+{"project:mrdoob/three.js rate5:97.74%": {"right": 907, "wrong": 21, "all": 2079}}

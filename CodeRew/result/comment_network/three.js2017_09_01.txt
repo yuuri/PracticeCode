@@ -1,0 +1,7 @@
+{"project:mrdoob/three.js rate:41.58%": {"right": 679, "wrong": 954, "all": 1633}}
+{"project:mrdoob/three.js rate:51.75%": {"right": 845, "wrong": 788, "all": 1633}}
+{"project:mrdoob/three.js rate:97.98%": {"right": 1600, "wrong": 33, "all": 1633}}
+"spend_train_time time is 48.78837299346924"
+"predict_time time is 214.20768904685974"
+"update_time time is 9.358212232589722"
+"spend time is 274.9355421066284"

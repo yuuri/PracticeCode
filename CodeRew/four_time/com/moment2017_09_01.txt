@@ -1,0 +1,7 @@
+{"project:moment/moment rate:64.94%": {"right": 50, "wrong": 27, "all": 77}}
+{"project:moment/moment rate:87.01%": {"right": 67, "wrong": 10, "all": 77}}
+{"project:moment/moment rate:98.70%": {"right": 76, "wrong": 1, "all": 77}}
+"train_time time is 20.48567223548889"
+"predict_time time is 0.4906754493713379"
+"update_time time is 0.07680749893188477"
+"spend time is 21.05814218521118"

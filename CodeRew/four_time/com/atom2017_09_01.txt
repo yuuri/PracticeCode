@@ -1,0 +1,7 @@
+{"project:atom/atom rate:19.35%": {"right": 48, "wrong": 200, "all": 248}}
+{"project:atom/atom rate:29.03%": {"right": 72, "wrong": 176, "all": 248}}
+{"project:atom/atom rate:62.10%": {"right": 154, "wrong": 94, "all": 248}}
+"train_time time is 76.55958104133606"
+"predict_time time is 13.235858678817749"
+"update_time time is 0.30727648735046387"
+"spend time is 90.17750430107117"

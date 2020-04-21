@@ -1,0 +1,7 @@
+{"project:flutter/flutter rate:55.51%": {"right": 2777, "wrong": 2226, "all": 5003}}
+{"project:flutter/flutter rate:60.68%": {"right": 3036, "wrong": 1967, "all": 5003}}
+{"project:flutter/flutter rate:77.23%": {"right": 3864, "wrong": 1139, "all": 5003}}
+"train_time time is 1390.0182209014893"
+"predict_time time is 2607.899330854416"
+"update_time time is 13.129487037658691"
+"spend time is 4013.223356485367"

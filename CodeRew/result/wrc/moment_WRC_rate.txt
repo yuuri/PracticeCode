@@ -1,0 +1,3 @@
+{"project:moment/moment rate:0.00%": {"right": 0, "wrong": 91, "all": 94}}
+{"project:moment/moment rate:38.46%": {"right": 35, "wrong": 56, "all": 94}}
+{"project:moment/moment rate:73.63%": {"right": 67, "wrong": 24, "all": 94}}

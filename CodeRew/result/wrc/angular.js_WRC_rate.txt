@@ -1,0 +1,3 @@
+{"project:angular/angular.js rate:0.00%": {"right": 0, "wrong": 108, "all": 141}}
+{"project:angular/angular.js rate:37.96%": {"right": 41, "wrong": 67, "all": 141}}
+{"project:angular/angular.js rate:62.96%": {"right": 68, "wrong": 40, "all": 141}}

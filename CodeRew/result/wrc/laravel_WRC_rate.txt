@@ -1,0 +1,3 @@
+{"project:laravel/laravel rate:0.00%": {"right": 0, "wrong": 265, "all": 418}}
+{"project:laravel/laravel rate:54.34%": {"right": 144, "wrong": 121, "all": 418}}
+{"project:laravel/laravel rate:58.11%": {"right": 154, "wrong": 111, "all": 418}}

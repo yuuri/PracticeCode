@@ -1,0 +1,3 @@
+{"project:microsoft/vscode rate:0.00%": {"right": 0, "wrong": 1611, "all": 2533}}
+{"project:microsoft/vscode rate:40.97%": {"right": 660, "wrong": 951, "all": 2533}}
+{"project:microsoft/vscode rate:59.34%": {"right": 956, "wrong": 655, "all": 2533}}

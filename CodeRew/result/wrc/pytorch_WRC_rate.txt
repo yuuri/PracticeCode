@@ -1,0 +1,3 @@
+{"project:pytorch/pytorch rate:0.00%": {"right": 0, "wrong": 6789, "all": 10817}}
+{"project:pytorch/pytorch rate:60.38%": {"right": 4099, "wrong": 2690, "all": 10817}}
+{"project:pytorch/pytorch rate:73.35%": {"right": 4980, "wrong": 1809, "all": 10817}}

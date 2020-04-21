@@ -1,0 +1,7 @@
+{"project:ceph/ceph rate:15.04%": {"right": 747, "wrong": 4220, "all": 4967}}
+{"project:ceph/ceph rate:24.20%": {"right": 1202, "wrong": 3765, "all": 4967}}
+{"project:ceph/ceph rate:70.36%": {"right": 3495, "wrong": 1472, "all": 4967}}
+"train_time time is 1675.9169323444366"
+"predict_time time is 3037.388603925705"
+"update_time time is 23.06809425354004"
+"spend time is 4743.679310083389"

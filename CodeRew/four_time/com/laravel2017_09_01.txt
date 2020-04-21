@@ -1,0 +1,7 @@
+{"project:laravel/laravel rate:38.43%": {"right": 83, "wrong": 133, "all": 216}}
+{"project:laravel/laravel rate:50.93%": {"right": 110, "wrong": 106, "all": 216}}
+{"project:laravel/laravel rate:69.44%": {"right": 150, "wrong": 66, "all": 216}}
+"train_time time is 29.235285997390747"
+"predict_time time is 2.6558175086975098"
+"update_time time is 0.2713663578033447"
+"spend time is 32.175440549850464"

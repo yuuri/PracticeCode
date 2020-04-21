@@ -1,0 +1,7 @@
+{"project:angular/angular.js rate:22.50%": {"right": 18, "wrong": 62, "all": 80}}
+{"project:angular/angular.js rate:58.75%": {"right": 47, "wrong": 33, "all": 80}}
+{"project:angular/angular.js rate:90.00%": {"right": 72, "wrong": 8, "all": 80}}
+"train_time time is 108.30713677406311"
+"predict_time time is 1.4506213665008545"
+"update_time time is 0.10173845291137695"
+"spend time is 109.86947011947632"

@@ -1,0 +1,3 @@
+{"project:facebook/react rate:0.00%": {"right": 0, "wrong": 1311, "all": 1483}}
+{"project:facebook/react rate:84.06%": {"right": 1102, "wrong": 209, "all": 1483}}
+{"project:facebook/react rate:89.24%": {"right": 1170, "wrong": 141, "all": 1483}}

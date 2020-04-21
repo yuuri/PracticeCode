@@ -1,0 +1,7 @@
+{"project:vuejs/vue rate:14.39%": {"right": 19, "wrong": 113, "all": 132}}
+{"project:vuejs/vue rate:42.42%": {"right": 56, "wrong": 76, "all": 132}}
+{"project:vuejs/vue rate:70.45%": {"right": 93, "wrong": 39, "all": 132}}
+"train_time time is 67.46712875366211"
+"predict_time time is 4.393646955490112"
+"update_time time is 0.1507251262664795"
+"spend time is 72.01949334144592"

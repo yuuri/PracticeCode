@@ -1,0 +1,3 @@
+{"project:django/django rate:0.00%": {"right": 0, "wrong": 2014, "all": 3196}}
+{"project:django/django rate:52.23%": {"right": 1052, "wrong": 962, "all": 3196}}
+{"project:django/django rate:69.51%": {"right": 1400, "wrong": 614, "all": 3196}}

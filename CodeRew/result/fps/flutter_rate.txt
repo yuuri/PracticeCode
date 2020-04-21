@@ -1,0 +1,3 @@
+{"project:flutter/flutter rate:0.00%": {"right": 0, "wrong": 5852, "all": 7316}}
+{"project:flutter/flutter rate:60.06%": {"right": 3515, "wrong": 2337, "all": 7316}}
+{"project:flutter/flutter rate:66.81%": {"right": 3910, "wrong": 1942, "all": 7316}}

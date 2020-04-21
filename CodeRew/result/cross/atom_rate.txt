@@ -1,0 +1,3 @@
+{"project:atom/atom rate1:0.00%": {"right": 0, "wrong": 16, "all": 605}}
+{"project:atom/atom rate3:50.00%": {"right": 8, "wrong": 8, "all": 605}}
+{"project:atom/atom rate5:56.25%": {"right": 9, "wrong": 7, "all": 605}}

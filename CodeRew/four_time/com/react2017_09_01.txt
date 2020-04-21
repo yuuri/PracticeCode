@@ -1,0 +1,7 @@
+{"project:facebook/react rate:22.56%": {"right": 252, "wrong": 865, "all": 1117}}
+{"project:facebook/react rate:39.39%": {"right": 440, "wrong": 677, "all": 1117}}
+{"project:facebook/react rate:89.97%": {"right": 1005, "wrong": 112, "all": 1117}}
+"train_time time is 182.56389951705933"
+"predict_time time is 147.43577075004578"
+"update_time time is 7.5511956214904785"
+"spend time is 339.7390367984772"

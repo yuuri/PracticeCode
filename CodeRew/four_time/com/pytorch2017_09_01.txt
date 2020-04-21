@@ -1,0 +1,7 @@
+{"project:pytorch/pytorch rate:25.92%": {"right": 1479, "wrong": 4227, "all": 5706}}
+{"project:pytorch/pytorch rate:42.52%": {"right": 2426, "wrong": 3280, "all": 5706}}
+{"project:pytorch/pytorch rate:79.18%": {"right": 4518, "wrong": 1188, "all": 5706}}
+"train_time time is 1340.3282022476196"
+"predict_time time is 1921.6733400821686"
+"update_time time is 20.145444631576538"
+"spend time is 3287.2766988277435"

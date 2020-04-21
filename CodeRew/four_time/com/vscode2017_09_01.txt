@@ -1,0 +1,7 @@
+{"project:microsoft/vscode rate:29.93%": {"right": 387, "wrong": 906, "all": 1293}}
+{"project:microsoft/vscode rate:42.92%": {"right": 555, "wrong": 738, "all": 1293}}
+{"project:microsoft/vscode rate:63.81%": {"right": 825, "wrong": 468, "all": 1293}}
+"train_time time is 146.0561261177063"
+"predict_time time is 112.49181795120239"
+"update_time time is 3.846304416656494"
+"spend time is 262.75177359580994"

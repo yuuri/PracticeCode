@@ -1,0 +1,3 @@
+{"project:ceph/ceph rate:0.00%": {"right": 0, "wrong": 6218, "all": 7440}}
+{"project:ceph/ceph rate:36.73%": {"right": 2284, "wrong": 3934, "all": 7440}}
+{"project:ceph/ceph rate:58.65%": {"right": 3647, "wrong": 2571, "all": 7440}}
