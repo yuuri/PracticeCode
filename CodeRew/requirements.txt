@@ -1,6 +1,6 @@
 networkx==2.4
 jieba==0.39
-nltk==3.4.5
+nltk==3.6.6
 concurrent_log_handler==0.9.16
 PyMySQL==0.9.3
 scikit_multilearn==0.2.0
